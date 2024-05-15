@@ -1,0 +1,1 @@
+A lady in Silver Ridge, Honeycomb, is a jewlery store manager. Long witch nose, a bit of a snob. Can sell and buy many rare items. Met on the Silver Ridge mafia investigation. 

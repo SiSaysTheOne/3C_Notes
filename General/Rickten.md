@@ -1,0 +1,1 @@
+The man who killed Frash. He owned the skyforge, before the crew cracked his soul anchor and killed him. His dying words: "You need to feed Peloras". The bone serpent lady was deathly afraid of him.
