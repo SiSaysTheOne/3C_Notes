@@ -57,6 +57,12 @@ Danger Sense
 Legendary Protectors
 - Spectral apparitions of familiar warriors and beasts appear when you enter your rage. While you're raging, the first creature you hit with an attack on your turn becomes the target of the spirits, which hinder its attacks. Until the start of your next turn, that target has disadvantage on any attack roll that isn't against you, and when the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack. The effect on the target ends early if your rage ends.
 
+Extra Attack
+- You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Fast Movement
+- Your speed increases by 10 feet while you aren’t wearing heavy armor.
+
 # Feats
 
 Sentinel: You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits
