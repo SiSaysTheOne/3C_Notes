@@ -1,7 +1,7 @@
 
 # Money
-- Plat: 1
-- Gold: 82
+- Plat: 0
+- Gold: 0
 - Electrum: 0
 - Silver: 6
 - Copper: 0
@@ -30,3 +30,10 @@
 - Sledgehammer
 - Amulet of Water Breathing
 - Assorted Bling (5gp)
+
+# Shopping List
+- Oil vials
+- Ball bearings
+- Soap
+- Bells
+
