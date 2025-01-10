@@ -31,9 +31,6 @@
 - Amulet of Water Breathing
 - Assorted Bling (5gp)
 
-# Shopping List
-- Oil vials
-- Ball bearings
-- Soap
-- Bells
-
+# Other items
+- 2 Oil vials
+- 1000 Ball bearings
