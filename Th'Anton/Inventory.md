@@ -1,3 +1,7 @@
++30G Amethyst
++400G Diamond
+# New
+- Component Pouch
 
 # Money
 - Plat: 0
@@ -9,8 +13,6 @@
 # Weapons
 - (1) Greataxe
 - (2) Knuckleaxes
-- (2) Javelins
-- (2) Rusted Javelins (-1 Damage)
 - Frash’s valor (shortsword) (1d8+1 / 1d10+1)
 - Pretty shield (+2AC)
 
@@ -21,16 +23,27 @@
 - Tinderbox
 - (10) Torch
 - An ocarina
-- Staff
+- StaffX`X`
 - Trap
 - Trophy
 - Traveler's cloths
-- (20) Rocks
 - Flask of Healing Salves (Healer's Kit)
 - Sledgehammer
 - Amulet of Water Breathing
 - Assorted Bling (5gp)
 
 # Other items
-- 2 Oil vials
+- ~~2 Oil vials~~
 - 1000 Ball bearings
+- rations
+
+# Notes
+
+- King that we talk-no-jutsu
+- Stone that Thanton clutched up on but really relied on the wisdom of his fellow souls
+- Witch that really likes her berds
+
+# After the Bird Lady
+
+- One Hand Axe
+
