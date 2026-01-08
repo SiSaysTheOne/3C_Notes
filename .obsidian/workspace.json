@@ -25,14 +25,12 @@
             "id": "237eac36ccb9ddc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Th'Anton/Inventory.md",
-                "mode": "source",
-                "source": false
+                "file": "Th'Anton/ThantonCharacterSheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Inventory"
+              "icon": "lucide-file-text",
+              "title": "ThantonCharacterSheet"
             }
           }
         ],
@@ -186,14 +184,19 @@
   },
   "active": "237eac36ccb9ddc2",
   "lastOpenFiles": [
-    "Th'Anton/ThantonCharacterSheet.pdf",
-    "Th'Anton/Inventory.md",
-    "Th'Anton/Mechanical Info (Rolls, HP, ...).md",
     "Th'Anton/Skills And Abilities.md",
-    "General/Rickten.md",
-    "Pirate's Expanse/Dungeon Notes.md",
+    "Th'Anton/Mechanical.md",
+    "Th'Anton/Character.md",
+    "Th'Anton/Inventory.md",
+    "Th'Anton/ThantonCharacterSheet.pdf",
+    "Th'Anton/ThantonCharacterSheet.odg",
+    "Th'Anton/Untitled",
+    "ThantonCharacterSheet.odg",
+    "ThantonCharacterSheet.pdf",
     "Untitled.md",
+    "Pirate's Expanse/Dungeon Notes.md",
     "Pirate's Expanse/Stores.md",
+    "General/Rickten.md",
     "General/The Roots of Dulac.md"
   ]
 }

@@ -1,7 +1,3 @@
-+30G Amethyst
-+400G Diamond
-# New
-- Component Pouch
 
 # Money
 - Plat: 0
@@ -11,39 +7,44 @@
 - Copper: 0
 
 # Weapons
-- (1) Greataxe
-- (2) Knuckleaxes
-- Frash’s valor (shortsword) (1d8+1 / 1d10+1)
+- Greataxe
+	- Quantity: 1
+- Knuckleaxes
+	- Quantity: 1
+	- Previously two; lost one to the birdmaid
+- Frash’s valor
+	- Type: Shortsword
+	- Double-hand: 1d8+1
+	- Single-hand: 1d10+1
 - Pretty shield (+2AC)
 
-# Explorer's Backpack
+# Unsorted Items
 - Bedroll
 - 50ft of rope
+- Trap
 - Mess kit
 - Tinderbox
 - (10) Torch
+- Flask of Healing Salves (Healer's Kit)
+
 - An ocarina
-- StaffX`X`
-- Trap
+- Staff
+
 - Trophy
 - Traveler's cloths
-- Flask of Healing Salves (Healer's Kit)
+
 - Sledgehammer
+
 - Amulet of Water Breathing
-- Assorted Bling (5gp)
 
-# Other items
-- ~~2 Oil vials~~
+- Assorted Bling
+	- 5G
+- Amethyst
+	- 30G
+- Diamond
+	- 400G
+- Component Pouch
 - 1000 Ball bearings
-- rations
 
-# Notes
 
-- King that we talk-no-jutsu
-- Stone that Thanton clutched up on but really relied on the wisdom of his fellow souls
-- Witch that really likes her berds
-
-# After the Bird Lady
-
-- One Hand Axe
 
