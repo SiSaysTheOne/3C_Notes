@@ -12,7 +12,6 @@ Legendary protectors only procs on the first hit of a rage
 
 # Transient Stats
 
-HP: 61/61
-
-Rages: 4
+- HP: 32/72
+- Rages: 4
 

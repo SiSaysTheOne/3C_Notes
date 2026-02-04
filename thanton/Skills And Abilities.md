@@ -36,11 +36,13 @@ Other
 # Barbarian
 
 Rage
-- Activated as a bonus action. 
-- Lasts for one minute.
-- Ends if you are knocked unconscious, take damage, or go a turn without attacking an enemy.
 - Rages: 4
 - Rage Damage: +2
+- Lasts: 
+	- One minute 
+	- 10 6-second turns
+- Activated as a bonus action. 
+- Ends if you are knocked unconscious, take damage, or go a turn without attacking an enemy.
 - Advantage on strength checks and throws.
 - Resistant to piercing, slashing, bludgeoning.
 
@@ -59,6 +61,13 @@ Extra Attack
 Fast Movement
 - Your speed increases by 10 feet while you aren’t wearing heavy armor.
 
+Feral Instinct
+- Your instincts are so honed that you have advantage on initiative rolls.
+- If you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+
+Instinctive Pounce
+- As part of the bonus action you take to enter your rage, you can move up to half your speed.
+
 ## Path of the Ancestral Guardian
 
 Legendary Protectors
@@ -73,7 +82,7 @@ Th'anton's Rage
 - When a creature you targeted with your Legendary Protectors dies or is incapacitated, you can use your bonus action to reactivate your Legendary Protectors feature, targeting another creature who is not incapacitated. When you do so, the effect fades from the former creature if it was still active.
 
 Spirit Shield
-- Level 4
+- Level 6
 - The guardian spirits that aid you can provide supernatural protection to those you defend. 
 - If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
 - Upgrades at 10th level and 14th level
@@ -85,3 +94,4 @@ Sentinel
 - When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
 - Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
 - When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+

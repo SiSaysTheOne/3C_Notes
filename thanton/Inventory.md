@@ -9,16 +9,18 @@
 # Weapons
 - Greataxe
 	- Quantity: 1
+	- Double-hand: 1d8
+	- Single-hand: 1d10
 - Knuckleaxes
 	- Quantity: 1
 	- Previously two; lost one to the birdmaid
 - Frash’s valor
 	- Type: Shortsword
-	- Double-hand: 1d8+1
-	- Single-hand: 1d10+1
+	- Double-hand: 1d6+1
 - Pretty shield (+2AC)
 
 # Unsorted Items
+
 - Bedroll
 - 50ft of rope
 - Trap
@@ -45,6 +47,3 @@
 	- 400G
 - Component Pouch
 - 1000 Ball bearings
-
-
-
