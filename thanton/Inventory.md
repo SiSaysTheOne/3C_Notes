@@ -3,8 +3,15 @@
 - Plat: 0
 - Gold: 0
 - Electrum: 0
-- Silver: 6
+- Silver: 0
 - Copper: 0
+
+- Assorted Bling
+	- 5G
+- Amethyst
+	- 30G
+- Diamond
+	- 400G
 
 # Weapons
 - Greataxe
@@ -17,6 +24,7 @@
 - Frash’s valor
 	- Type: Shortsword
 	- Double-hand: 1d6+1
+	- Silvered
 - Pretty shield (+2AC)
 
 # Unsorted Items
@@ -39,11 +47,5 @@
 
 - Amulet of Water Breathing
 
-- Assorted Bling
-	- 5G
-- Amethyst
-	- 30G
-- Diamond
-	- 400G
 - Component Pouch
 - 1000 Ball bearings

@@ -10,8 +10,3 @@ When rolling damage: Add ability mod
 
 Legendary protectors only procs on the first hit of a rage
 
-# Transient Stats
-
-- HP: 32/72
-- Rages: 4
-

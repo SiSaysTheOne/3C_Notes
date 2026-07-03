@@ -18,8 +18,65 @@
               "icon": "lucide-file-text",
               "title": "ThantonCharacterSheet"
             }
+          },
+          {
+            "id": "b922168620a66b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thanton/Skills And Abilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills And Abilities"
+            }
+          },
+          {
+            "id": "804fc892541ff6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thanton/Mechanical.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanical"
+            }
+          },
+          {
+            "id": "fd9c96292ea20602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thanton/Inventory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inventory"
+            }
+          },
+          {
+            "id": "d0f23e77b5a03f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thanton/Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Character"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,23 +224,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56fad938a1d152e7",
+  "active": "b922168620a66b3a",
   "lastOpenFiles": [
+    "thanton/lu3133315p6yad.tmp",
+    "thanton/lu3133315p6y8t.tmp",
+    "thanton/lu3133315p6xda.tmp",
+    "thanton/lu3133315p6x7h.tmp",
+    "thanton/lu3133315p6wli.tmp",
+    "thanton/lu3133315p6wgn.tmp",
+    "thanton/lu3133315p6wdm.tmp",
+    "thanton/lu3133315p6w3e.tmp",
+    "thanton/lu3133315p6vwl.tmp",
+    "thanton/lu3133315p6uew.tmp",
+    "thanton/lu3133315p6ucj.tmp",
     "thanton/Inventory.md",
-    "thanton/Character.md",
-    "thanton/ThantonCharacterSheet.pdf",
     "thanton/Skills And Abilities.md",
+    "thanton/Mechanical.md",
+    "thanton/Character.md",
     "piratesExpanse/downtime.md",
     "piratesExpanse/Dungeon Notes.md",
     "piratesExpanse/Stores.md",
     "General/Songs of the World Makers.md",
     "General/The Roots of Dulac.md",
-    "thanton/lu12857424p88k.tmp",
-    "thanton/lu12857424p88e.tmp",
-    "thanton/lu12857424p844.tmp",
-    "thanton/lu12857424p840.tmp",
-    "thanton/Mechanical.md",
-    "Th'Anton/ThantonCharacterSheet.pdf",
     "Th'Anton/Inventory.md",
     "Th'Anton/Skills And Abilities.md",
     "Th'Anton/Mechanical.md",
@@ -196,10 +258,6 @@
     "Pirate's Expanse/Dungeon Notes.md",
     "General/Rickten.md",
     "General/Random.md",
-    "Th'Anton/ThantonCharacterSheet.odg",
-    "Th'Anton/Untitled",
-    "ThantonCharacterSheet.odg",
-    "ThantonCharacterSheet.pdf",
     "Untitled.md"
   ]
 }

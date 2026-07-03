@@ -1,97 +1,142 @@
+# Abilities SCores
 
-# Racial
+Base
+- `STR`: 16
+- `DEX`: 12
+- `CON`: 13
+- `INT`:  9
+- `WIS`: 9
+- `CHR`: 12
+# Species: Half Orc (mechanically Orc)
 
-Menacing
-- Proficiency in Intimidation
+**Creature Type:** Humanoid  
+**Size:** Medium (about 6–7 feet tall)  
+**Speed:** 30 feet
 
-Ability Score Increase
+Adrenaline Rush
+- Take the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) action as a Bonus Action. Gain a number of [Temporary Hit Points](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#TemporaryHitPoints) equal to your Proficiency Bonus.
+- Charges: Proficiency Bonus.
+- Regain all charges after a Short or Long Rest.
+
+Darkvision of 120 feet.
+
+Relentless Endurance
+- When you are reduced to 0 Hit Points but not killed outright, drop to 1 Hit Point instead.
+- Charges: Once per long rest.
+
+Languages
+- Common (proficient)
+- Orc (mid)
+
+# Origin: Farmer
+
+Ability score increases
 - Strength +2
 - Constitution +1
 
-Darkvision
-- Dim light within 60ft is bright light, can discern betweem shades of gray in darkness.
+Skill proficiencies
+- Animal Handling
+- Nature
 
-Relentless Endurance
-- When reduced to 0 hit points, drop to 1 hit point instead. May only be used once after a rest.
+Tool proficiency: Carpenter's Tools
 
-Savage Attacks
-- When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
+Equipment (probably not all on Thant)
+- Sickle
+- Carpenter's Tools
+- Healer's Kit
+- Iron Pot
+- Shovel
+- Traveler's Clothes
 
-Languages
-- Common and Orc.
+Feat: Tough
+- Max health boost = $2*(\text{LVL feat initially taken}) + 2*(\text{current LVL} - 1)$
+	- Taken at LVL 1: +2 max health
+	- Current LVL 8: +14 max health
+- Current total: +18 max health
+# Barbarian (LVL 8)
 
-# Barbarian (Proficiencies)
+- Hit dice: d12
+	- Max health boost = $max(rand(min=0, max=12), 6) + CON_{mod}$
+	- LVL 0: 0
+	- LVL 1-7: +72
+	- LVL 8: +11
 
-Animal Handling
-- Calm an animal, keep it form being spooked, intuit its intentions, or control a mount during a risky maneuver.
+Ability score improvements / Feats
+- LVL 4: Strength +2
+- LVL 8: Sentinel
+	- Creature's speed becomes zero when hit with your opportunity attack for the rest of the turn
+	- Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
+	- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
 
-Athletics
-- Overcome difficult feats of climbing, jumping, and swimming.
+Skill proficiencies
+- Intimidation
+- Athletics
+- Perception
 
-Other
-- Light and medium armor, shields.
-- Simple and martial weapons.
-- Strength and Constitution saving throws.
+Saving throw proficiencies
+- strength
+- constitution
 
-# Barbarian
+Weapon proficiencies
+- Light armor 
+- medium armor
+- shields
+- Simple weapons
+- martial weapons
 
-Rage
+Rage (LVL 8)
 - Rages: 4
 - Rage Damage: +2
-- Lasts: 
-	- One minute 
-	- 10 6-second turns
-- Activated as a bonus action. 
+- Lasts: One minute (10 6-second turns)
+- Bonus action
 - Ends if you are knocked unconscious, take damage, or go a turn without attacking an enemy.
 - Advantage on strength checks and throws.
-- Resistant to piercing, slashing, bludgeoning.
+- Resistance to piercing, slashing, bludgeoning
 
 Unarmored Defense
 - Without armor, armor class equals 10 plus your constitution modifier. Shields do not constitute armor.
 
+Weapon Mastery
+- Current choice 1: **Shortsword** (effect: **Vex**)
+- Current choice 2: **Greataxe** (effect: **Cleave**)
+- Current choice 3: **Javelin** (effect: **Slow**)
+
 Reckless Attack
-- Throw aside all concern for defense to attack with fierce desperation. On the first attack of your turn, decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+- Activate on first attack of your turn
+- Advantage on melee weapon attack rolls using Strength
+- Attack rolls against you have advantage until your next turn
 
 Danger Sense
-- An uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can’t be blinded, deafened, or incapacitated.
+- Advantage on Dexterity saving throws against effects that you can see (traps, spells, etc.)
+- Cannot activate when be blinded, deafened, or incapacitated
 
-Extra Attack
-- You can attack twice, instead of once, whenever you take the Attack action on your turn.
+Extra Attack: Attack twice whenever you take the Attack action on your turn.
 
-Fast Movement
-- Your speed increases by 10 feet while you aren’t wearing heavy armor.
+Fast Movement: Your speed increases by 10 feet while you aren’t wearing heavy armor.
 
 Feral Instinct
-- Your instincts are so honed that you have advantage on initiative rolls.
-- If you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+- Advantage on initiative rolls.
 
 Instinctive Pounce
-- As part of the bonus action you take to enter your rage, you can move up to half your speed.
+- Bonus action. 
+- When you enter your rage, you can move up to half your speed.
 
 ## Path of the Ancestral Guardian
 
-Legendary Protectors
+Source: https://media.dndbeyond.com/compendium-images/ua/subclasses-update/PWtmnmBuM6NVYAXE/UA2025+Updated+Subclasses.pdf
+
+Flavor: Legendary Spectres
 - Spectral apparitions of familiar warriors and beasts appear when you enter your rage. 
-- While you're raging, the first creature you hit with an attack on your turn becomes the target of the spirits, which hinder its attacks. 
-- Until the start of your next turn: 
-	- The target has disadvantage on any attack roll that isn't against you 
-	- When the target hits a creature other than you with an attack, that creature has resistance to the damage dealt by the attack
-- The effect on the target ends early if your rage ends
+- Upon hitting an enemy, perform **Distract**, **Protect**, or **Strike**
+
+Spirit Shield
+- Whenever a creature is attacked within 30m, use a reaction to reduce the damage it takes
+- Damage reduction = $rand(min=0, max=6)*rageDamage$
+# Flame Boons
 
 Th'anton's Rage
 - When a creature you targeted with your Legendary Protectors dies or is incapacitated, you can use your bonus action to reactivate your Legendary Protectors feature, targeting another creature who is not incapacitated. When you do so, the effect fades from the former creature if it was still active.
 
-Spirit Shield
-- Level 6
-- The guardian spirits that aid you can provide supernatural protection to those you defend. 
-- If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by 2d6.
-- Upgrades at 10th level and 14th level
-
-# Feats
-
-Sentinel 
-- You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits
-- When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.
-- Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.
-- When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.
+Barrel Through the Turns
+- When you take the Dash action, you gain advantage on Athletics checks until the end of your turn. While you are not within melee range of an enemy, you can take the Dash Action as a Bonus Action.
 
